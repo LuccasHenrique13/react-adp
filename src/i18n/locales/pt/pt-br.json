@@ -1,0 +1,56 @@
+{
+    "translation": {
+        "navbar.home": "INÍCIO",
+        "navbar.about": "SOBRE",
+        "navbar.projects": "PROJETOS",
+        "navbar.contact": "CONTATO",
+        "navbar.spotify": "Playlist no Spotify",
+
+        "home.type.line-1": "Hello World!",
+        "home.type.line-2": "Seja bem-vindo ao nosso site!",
+        "home.type.line-3": "Confira nossos projetos!",
+        "home.type.line-4": "Vamos criar um projeto <strong>incrivel</strong> para você!",
+
+        "about.title": "Quem nós somos?",
+        "about.description": "Somos a Prefeitura de Américo Brasiliense, uma equipe dedicada e comprometida em tornar nossa cidade um lugar ainda mais acolhedor, vibrante e sustentável para todos os seus moradores. Através de iniciativas inovadoras e colaborativas, como o projeto Adote uma Praça, buscamos unir empresas e a comunidade para transformar nossos espaços públicos em verdadeiros oásis urbanos.",
+        "stack.title": "Vantagens de se adotar uma praça",
+
+        "projects.title": "Conheça nossos projetos",
+        "projects.description": "Aqui, você terá a oportunidade de conhecer algumas praças que já foram adotadas e revitalizadas.",
+
+        "project.abijaudi": "Praça Abi Jaudi",
+        "project.cruzeiro": "Praça cruzeiro",
+        "project.planalto": "Praça Planalto",
+        "project.Valegre": "Praça Vista Alegre",
+        "project.recreativa": "Praça Recreativa",    
+
+        "project.visit": "Ver Praça",
+
+        "contact.title": "Contato",
+        "contact.description": "Para solicitar um orçamento ou tirar dúvidas sobre os serviços da TheCodeStudios, preencha o formulário abaixo ou entre em contato por uma de nossas redes sociais. Responderemos sua mensagem o mais breve possível.",
+
+        "contact.form.name": "Nome",
+        "contact.form.name.description": "Digite o seu nome completo",
+
+        "contact.form.email": "E-mail",
+        "contact.form.email.description": "Digite o seu e-mail",
+
+        "contact.form.phone": "Telefone",
+        "contact.form.phone.description": "Digite o seu telefone",
+
+        "contact.form.message": "Mensagem",
+        "contact.form.message.description": "Digite sua mensagem",
+
+        "contact.form.send.button": "Enviar",
+
+        "title.abijaudi": "Praça Abi Jaudi",
+        "text.abijaudi": "As mudanças planejadas para a nossa praça são ambiciosas e visam transformá-la em um espaço público renovado e encantador. Com a pintura revitalizante, o plantio diversificado de árvores e a reforma do banheiro, buscamos criar uma experiência aprimorada e acolhedora para todos que a utilizarem. Essas mudanças não apenas tornarão a praça mais atraente visualmente, mas também promoverão o bem-estar da comunidade, incentivando a interação social, o lazer e o contato com a natureza. Ao adotarmos nossa praça em parceria com as empresas locais, fortalecemos o senso de pertencimento e a colaboração entre todos os envolvidos. Juntos, podemos transformar nossa praça em um verdadeiro oásis urbano, onde a comunidade se reúne, desfruta e celebra a vida em um ambiente revitalizado e inspirador.",
+        "Stitle.abijaudi": "",
+
+
+        "footer.text": "",
+        "footer.social": "Redes Sociais",
+        "footer.copyright": "2023 Todos os direitos reservados. Prefeitura Américo Brasiliense."
+
+    }
+}

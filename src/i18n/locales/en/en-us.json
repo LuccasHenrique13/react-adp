@@ -1,0 +1,54 @@
+{
+    "translation": {
+        "navbar.home": "HOME",
+        "navbar.about": "ABOUT",
+        "navbar.projects": "PROJECTS",
+        "navbar.contact": "CONTACT",
+        "navbar.spotify": "Playlist on Spotify",
+
+        "home.type.line-1": "Hello World!",
+        "home.type.line-2": "Welcome to our website!",
+        "home.type.line-3": "Check out our projects!",
+        "home.type.line-4": "Let's create an <strong>amazing</strong> project for you!",
+
+        "about.title": "Who are we?",
+        "about.description": "We are a software development startup focused on technological solutions that help companies improve efficiency, productivity, and customer satisfaction. Our team of experienced developers employs best software development practices to create web systems that meet the needs of our clients.",
+        "stack.title": "Our skills",
+
+        "projects.title": "Explore our projects",
+        "projects.description": "Here you'll find some projects we've developed for our clients, all carefully designed to meet specific needs.",
+
+        "project.dl.saude": "DL Saúde",
+        "project.dl.description": "A landing page designed for the DL Health event.",
+
+        "project.swiftbuy": "Swiftbuy",
+        "project.swiftbuy.description": "An e-commerce page created collaboratively for the portfolio.",
+        
+        "project.visit": "Visit",
+        "project.source-code": "Source Code",
+
+        "contact.title": "Contact",
+        "contact.description": "To request a quote or ask questions about TheCodeStudios' services, please fill out the form below or get in touch through one of our social media channels. We will respond to your message as soon as possible.",
+
+        "contact.form.name": "Name",
+        "contact.form.name.description": "Enter your full name",
+
+        "contact.form.email": "Email",
+        "contact.form.email.description": "Enter your email",
+
+        "contact.form.phone": "Phone",
+        "contact.form.phone.description": "Enter your phone number",
+
+        "contact.form.message": "Message",
+        "contact.form.message.description": "Enter your message",
+
+        "contact.form.send.button": "Send",
+
+        
+        "footer.text": "Let's work together? We are a company focused on turning your projects into reality. Get in touch! Let's develop the ideal project for you.",
+        "footer.social": "Social Media",
+        "footer.copyright": "2023 All rights reserved. The Code Studios."
+
+
+    }
+}
